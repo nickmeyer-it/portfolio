@@ -18,6 +18,7 @@ Simulated applying a password policy to a Linux user to ensure account security 
 Steps outlined below.
 
 ### Check current password settings
+Note: 'chage' must be run using 'sudo', unless you 'su - username' the user account in-question.
 ```bash
 chage -l username
 ```
@@ -32,8 +33,8 @@ sudo chage -W 14 username  # warning days before expiration
 ### Verify policy
 Output should reflect the updated expiration, minimum, and warning days.
 ```bash
-chage -l username
+sudo chage -l username
 ```
 
-### Reflection
+### Reflections on this lab
 Password policy successfully applied to the user. Ensures the account meets security standards and promotes regular password updates, mirroring best practices in real IT environments.
