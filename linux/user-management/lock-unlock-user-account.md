@@ -35,7 +35,7 @@ sudo usermod -U username
 
 ### Verify account is unlocked
 ```bash
-passwd -S username
+sudo passwd -S username
 ```
 Status should show P (password set).
 <img width="1280" height="800" alt="2026-01-19 20_38_56-UIMachineViewNormalClassWindow" src="https://github.com/user-attachments/assets/b080cbec-f059-4c08-bf0e-48c99a092f4e" />
