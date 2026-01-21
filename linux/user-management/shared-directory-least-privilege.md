@@ -39,12 +39,13 @@ sudo usermod -aG accounting tom@accounting
 ```
 <img width="1280" height="800" alt="2026-01-20 20_32_20-UIMachineViewNormalClassWindow" src="https://github.com/user-attachments/assets/0e72a643-d9e7-47e8-a112-5485546af21d" />
 
-### Make an a folder for Accounting under the root directory (/)
+### Make a folder for Accounting under the root directory (/)
 ```bash
 sudo mkdir /accounting
 ```
 
 ### Make the Accounting group the owner of the new '/accounting' folder
+Note: The (:) in front of the (accounting) group, specified between (chown) and (/accounting), tells Linux that only this group owns this folder
 ```bash
 sudo chown :accounting /accounting
 ```
