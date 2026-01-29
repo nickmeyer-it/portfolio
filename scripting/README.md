@@ -1,1 +1,1 @@
-Scripting ideas live here.
+This is where script ideas live.
