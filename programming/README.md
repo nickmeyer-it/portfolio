@@ -1,1 +1,1 @@
-This is where program ideas live
+This is where program ideas live.
