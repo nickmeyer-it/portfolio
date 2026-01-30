@@ -71,6 +71,7 @@ By the end of this lab, I will be able to:
 - If you keep scrolling you'll see Alerts.
 - In this case we'll investigate how I've configured alerts for my existing monthly budget.
 <img width="1323" height="817" alt="2026-01-29 22_47_01-Budget details _ AWS Budgets _ Global — Mozilla Firefox" src="https://github.com/user-attachments/assets/ebd62b5f-972c-41f3-a8bc-b8a7887c4736" />
+
 - Here you can see I've set my budge alert to trigger when the 'actual' budget-use reaches 85% of the budget cap.
 - And you can see that when it's triggered it knows to send me and email to let me know.
 <img width="1323" height="817" alt="2026-01-29 22_48_33-Edit budget _ Configure alerts _ AWS Budgets _ Global — Mozilla Firefox" src="https://github.com/user-attachments/assets/c657c0f9-66a1-478c-99b9-7ac8a1e58602" />
