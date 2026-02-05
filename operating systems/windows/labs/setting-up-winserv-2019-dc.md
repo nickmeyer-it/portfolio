@@ -45,6 +45,18 @@ Setting up a 2019 Windows Server as a Domain Controller and DNS server
 - Then click Next
 <img width="1024" height="768" alt="2026-02-02 09_25_08-UIMachineViewNormalClassWindow" src="https://github.com/user-attachments/assets/2962ec36-b1af-48cd-87c9-8312a1c5a64b" />
 
+### 8. Click OK when prompted about Windows creating additional partitions for system files
+<img width="1024" height="768" alt="2026-02-02 09_25_30-UIMachineViewNormalClassWindow" src="https://github.com/user-attachments/assets/936e2953-cc44-4220-8919-cb4acc9ec15a" />
+
+### 9. Select the largest partition
+- Then click Next
+<img width="1024" height="768" alt="2026-02-02 09_26_39-UIMachineViewNormalClassWindow" src="https://github.com/user-attachments/assets/6d2432ae-b9de-42b5-91f1-e35934aec04c" />
+
+### 10. Let the Setup Wizard take over
+<img width="1024" height="768" alt="2026-02-02 09_26_52-UIMachineViewNormalClassWindow" src="https://github.com/user-attachments/assets/92049f6a-7fd9-4ec2-af18-31e9d27fe6a2" />
+<img width="1024" height="768" alt="2026-02-02 09_31_43-UIMachineViewNormalClassWindow" src="https://github.com/user-attachments/assets/9f31133c-201d-45bb-ac27-351a5f7f011e" />
+
+
 
 
 
