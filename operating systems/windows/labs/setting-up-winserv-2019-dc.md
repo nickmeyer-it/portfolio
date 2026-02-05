@@ -38,7 +38,9 @@ Setting up a 2019 Windows Server as a Domain Controller and DNS server
 - Then click New
 <img width="1024" height="768" alt="2026-02-02 09_24_53-UIMachineViewNormalClassWindow" src="https://github.com/user-attachments/assets/8763f11c-c2a8-4e4a-92da-8188271e9af1" />
 
-### 7. Confirm size of desired new partition
+### 7. Confirm desired size of new partition
+- By default it assumes you wish to use 100% of available storage capacity
+- This works fine for my needs
 - Click Apply
 - Then click Next
 <img width="1024" height="768" alt="2026-02-02 09_25_08-UIMachineViewNormalClassWindow" src="https://github.com/user-attachments/assets/2962ec36-b1af-48cd-87c9-8312a1c5a64b" />
