@@ -1,7 +1,7 @@
 # Windows Server 2019 Setup
 
 ## Scenario
-Setting up a 2019 Windows Server as a Domain Controller and DNS server
+Setting up a 2019 Windows Server
 
 ## Environment
 - OS: Windows Server 2019 (Evaluation)
@@ -9,9 +9,7 @@ Setting up a 2019 Windows Server as a Domain Controller and DNS server
 - Purpose: Skills demonstration lab
 
 ## Skills Demonstrated
-- Installing Windows Server 2019
-- Enabling Active Directory and DNS services
-- Creating OUs
+- Familiarity with setting up Windows Server 2019
 
 ## Implementation - steps outlined below
 
@@ -56,29 +54,16 @@ Setting up a 2019 Windows Server as a Domain Controller and DNS server
 <img width="1024" height="768" alt="2026-02-02 09_26_52-UIMachineViewNormalClassWindow" src="https://github.com/user-attachments/assets/92049f6a-7fd9-4ec2-af18-31e9d27fe6a2" />
 <img width="1024" height="768" alt="2026-02-02 09_31_43-UIMachineViewNormalClassWindow" src="https://github.com/user-attachments/assets/9f31133c-201d-45bb-ac27-351a5f7f011e" />
 
+### 11. Customize settings
+- Set your local Administrator account password
+- Confirm new password (probably a good time to write it down too, heh)
+- Then click Finish
+<img width="1024" height="768" alt="2026-02-02 09_37_15-UIMachineViewNormalClassWindow" src="https://github.com/user-attachments/assets/d01d6974-7957-4945-a6ad-57243923814b" />
 
+### 12. Windows log on screen
+- Use your new super-secure password to log in as the local Administrator account
+<img width="1024" height="768" alt="2026-02-02 09_37_46-UIMachineViewNormalClassWindow" src="https://github.com/user-attachments/assets/b0ee7326-da2b-43ec-9494-5bf6fe612b3d" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 13. One Windows Server ready to config
+- Nice job!
+<img width="1024" height="768" alt="2026-02-02 09_43_43-UIMachineViewNormalClassWindow" src="https://github.com/user-attachments/assets/1c7516cc-ee8b-451f-8bfd-54fb0607164d" />
