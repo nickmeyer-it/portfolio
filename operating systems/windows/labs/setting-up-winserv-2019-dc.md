@@ -1,8 +1,5 @@
 # Windows Server 2019 Setup
 
-## Scenario
-Setting up a 2019 Windows Server
-
 ## Environment
 - OS: Windows Server 2019 (Evaluation)
 - Platform: VirtualBox VM
@@ -11,9 +8,6 @@ Setting up a 2019 Windows Server
 ## Skills Demonstrated
 - Familiarity with setting up Windows Server 2019
 
-## Implementation - steps outlined below
-
-## Windows Server 2019 Setup
 ### 1. Select your desire language, time zone and keyboard layout
 - Then click Next
 <img width="1024" height="768" alt="2026-02-05 16_17_41-2026-02-02 09_16_09-winsrvr-2019-vm-01  Running  - Oracle VM VirtualBox png - Wi" src="https://github.com/user-attachments/assets/1b852439-6d9c-4a64-9879-da7c13399270" />
