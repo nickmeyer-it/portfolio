@@ -22,6 +22,7 @@
 - Replace the current name with the desired name
 - Left-click the OK button when done to apply change
 <img width="1024" height="768" alt="2026-02-08 16_37_58-Clipboard" src="https://github.com/user-attachments/assets/7a976837-1eeb-4bbf-95f2-34766e820017" />
+
 <img width="1024" height="768" alt="2026-02-08 16_38_47-Clipboard" src="https://github.com/user-attachments/assets/f04f99e0-45b1-48bd-a690-1ad7ee1775f3" />
 
 ### 4. You must restart your computer to apply these changes
