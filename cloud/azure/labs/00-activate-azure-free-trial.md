@@ -56,12 +56,12 @@ This lab establishes the foundation for **all future Azure labs** and reinforces
 ---
 
 ### 3. Verify Tenant & Directory
-- ⬜ Navigated to Microsoft Entra ID (Azure AD)
-- ⬜ Verified tenant name
+- Navigated to Microsoft Entra ID (Azure AD)
+- Verified tenant name
 <img width="960" height="1040" alt="1" src="https://github.com/user-attachments/assets/e93d5ecc-281c-4ad4-babc-e3029b712834" />
-- ⬜ Verified primary domain
+- Verified primary domain
 <img width="960" height="1040" alt="2" src="https://github.com/user-attachments/assets/139e1e61-fa1d-4ed0-960d-bac48f97a804" />
-- ⬜ Confirmed global admin access
+- Confirmed global admin access
 <img width="960" height="1040" alt="3" src="https://github.com/user-attachments/assets/29d03197-adef-4271-812c-9809e7d8da8b" />
 
 **Tenant Info:**
