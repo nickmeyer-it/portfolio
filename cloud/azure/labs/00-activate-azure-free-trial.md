@@ -49,7 +49,7 @@ This lab establishes the foundation for **all future Azure labs** and reinforces
 ### 2. Verify Subscription Details
 #### Logged into Azure Portal
 #### Navigated to **Subscriptions**
-<img width="960" height="1040" alt="1" src="https://github.com/user-attachments/assets/59eecc52-ae19-4f80-ab4a-eda371f11a8e" />
+<img width="960" height="1040" alt="1" src="https://github.com/user-attachments/assets/d119266b-442e-44c7-a75c-180bc0c347c8" />
 
 #### Confirmed subscription is active
 <img width="960" height="1040" alt="2" src="https://github.com/user-attachments/assets/e3ba2e9e-2880-43b3-953e-916b02b03965" />
