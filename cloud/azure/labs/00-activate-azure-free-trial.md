@@ -77,7 +77,7 @@ This lab establishes the foundation for **all future Azure labs** and reinforces
 <img width="949" height="298" alt="3" src="https://github.com/user-attachments/assets/3853a0e4-e0d6-4df5-8da7-3c64ad2aa654" />
 - Successfully ran a test command
 <img width="949" height="298" alt="4" src="https://github.com/user-attachments/assets/49f16ce6-d97f-4daf-811e-dff8b490b334" />
-**Test Command Output:**
+Test Command Output:
 ```bash
 az account show
 ```
