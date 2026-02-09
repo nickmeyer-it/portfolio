@@ -124,7 +124,7 @@ az account show
 ```yaml
 Primary Region: East US
 Paired Region: West US
-Reason for Choice: Better insulation from regional outtage. Spans breadth of the US.
+Reason for Choice: Better insulation from regional outage. Spans breadth of the US.
 ```
 
 ---
