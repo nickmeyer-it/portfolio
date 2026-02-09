@@ -40,13 +40,28 @@ This lab establishes the foundation for **all future Azure labs** and reinforces
 
 **Notes:**
 
-
 ---
 
 ### 2. Verify Subscription Details
-- ⬜ Logged into Azure Portal
-- ⬜ Navigated to **Subscriptions**
-- ⬜ Confirmed subscription is active
-- ⬜ Recorded subscription name and ID
+- Logged into Azure Portal
+- Navigated to **Subscriptions**
+<img width="960" height="1040" alt="1" src="https://github.com/user-attachments/assets/59eecc52-ae19-4f80-ab4a-eda371f11a8e" />
+- Confirmed subscription is active
+<img width="960" height="1040" alt="2" src="https://github.com/user-attachments/assets/e3ba2e9e-2880-43b3-953e-916b02b03965" />
+- Recorded subscription name and ID
+<img width="960" height="1040" alt="3" src="https://github.com/user-attachments/assets/34ee8404-994b-4de0-8f59-a85904ec48a9" />
 
 **Subscription Info:**
+
+---
+
+### 3. Verify Tenant & Directory
+- ⬜ Navigated to Microsoft Entra ID (Azure AD)
+- ⬜ Verified tenant name
+<img width="960" height="1040" alt="1" src="https://github.com/user-attachments/assets/e93d5ecc-281c-4ad4-babc-e3029b712834" />
+- ⬜ Verified primary domain
+<img width="960" height="1040" alt="2" src="https://github.com/user-attachments/assets/139e1e61-fa1d-4ed0-960d-bac48f97a804" />
+- ⬜ Confirmed global admin access
+<img width="960" height="1040" alt="3" src="https://github.com/user-attachments/assets/29d03197-adef-4271-812c-9809e7d8da8b" />
+
+**Tenant Info:**
