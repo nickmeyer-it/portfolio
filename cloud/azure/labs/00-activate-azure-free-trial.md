@@ -111,3 +111,22 @@ az account show
 <img width="960" height="1040" alt="6" src="https://github.com/user-attachments/assets/72798928-56dc-439a-8c75-ac23fa5356fe" />
 
 <img width="960" height="1040" alt="7" src="https://github.com/user-attachments/assets/7d78a81a-24e9-4092-a43d-1670792548a3" />
+
+---
+
+### 6. Choose Primary Region for Labs
+#### Reviewed Azure region list
+<img width="960" height="1040" alt="2" src="https://github.com/user-attachments/assets/6e88a078-40b6-4e95-ad62-dedc0dcac507" />
+
+#### Selected a primary region
+<img width="960" height="1040" alt="3" src="https://github.com/user-attachments/assets/b31c7c30-e6bf-4772-948e-bd40ac23f58c" />
+
+```yaml
+Primary Region: East US
+Paired Region: West US
+Reason for Choice: Better insulation from regional outtage. Spans breadth of the US.
+```
+
+---
+
+### 7. Define Naming Conventions (W.I.P.)
