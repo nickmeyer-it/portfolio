@@ -65,3 +65,21 @@ This lab establishes the foundation for **all future Azure labs** and reinforces
 <img width="960" height="1040" alt="3" src="https://github.com/user-attachments/assets/29d03197-adef-4271-812c-9809e7d8da8b" />
 
 **Tenant Info:**
+
+---
+
+### 4. Enable Cloud Shell
+- Opened Azure Cloud Shell
+<img width="960" height="1040" alt="1" src="https://github.com/user-attachments/assets/007817fc-99c2-48e9-b960-e1849dac102b" />
+- Selected Bash
+<img width="949" height="298" alt="2" src="https://github.com/user-attachments/assets/757c8716-2edf-44d7-8903-da1e9ba7e483" />
+- Selected No storage account required
+<img width="949" height="298" alt="3" src="https://github.com/user-attachments/assets/3853a0e4-e0d6-4df5-8da7-3c64ad2aa654" />
+- Successfully ran a test command
+<img width="949" height="298" alt="4" src="https://github.com/user-attachments/assets/49f16ce6-d97f-4daf-811e-dff8b490b334" />
+**Test Command Output:**
+```bash
+az account show
+```
+<img width="960" height="1040" alt="5" src="https://github.com/user-attachments/assets/1d7dedc6-50c5-4046-b500-70fedbfbf9bb" />
+
