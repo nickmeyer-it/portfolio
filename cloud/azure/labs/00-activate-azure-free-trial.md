@@ -70,8 +70,6 @@ This lab establishes the foundation for **all future Azure labs** and reinforces
 #### Confirmed global admin access
 <img width="960" height="1040" alt="3" src="https://github.com/user-attachments/assets/29d03197-adef-4271-812c-9809e7d8da8b" />
 
-**Tenant Info:**
-
 ---
 
 ### 4. Enable Cloud Shell
@@ -95,3 +93,21 @@ az account show
 
 <img width="960" height="1040" alt="5" src="https://github.com/user-attachments/assets/1d7dedc6-50c5-4046-b500-70fedbfbf9bb" />
 
+---
+
+### 5. Set Cost Guardrails (CRITICAL)
+#### Navigated to Cost Management + Billing
+<img width="960" height="1040" alt="1" src="https://github.com/user-attachments/assets/b18b3f79-ff2a-463e-b52d-ab57de32378a" />
+
+<img width="960" height="1040" alt="2" src="https://github.com/user-attachments/assets/5ddffde9-365d-47c8-badf-4cd88634437b" />
+
+#### Reviewed current credit balance
+<img width="960" height="1040" alt="4" src="https://github.com/user-attachments/assets/97f509ad-9ff2-4801-ab68-85b037bb163a" />
+
+#### Created a budget alert (email)
+<img width="960" height="1040" alt="5" src="https://github.com/user-attachments/assets/46583c9d-0d7a-470a-8abd-98511e37e8a0" />
+
+#### Set alert threshold (e.g., 50% credit used)
+<img width="960" height="1040" alt="6" src="https://github.com/user-attachments/assets/72798928-56dc-439a-8c75-ac23fa5356fe" />
+
+<img width="960" height="1040" alt="7" src="https://github.com/user-attachments/assets/7d78a81a-24e9-4092-a43d-1670792548a3" />
