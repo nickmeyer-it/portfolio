@@ -52,4 +52,28 @@ My chosen structure:
 ```yaml
 <resource-type>-<purpose>-<environment>
 ```
-# (W.I.P.)
+
+---
+
+## 1.2 Define Approved Prefixes
+
+Fill in your approved prefixes below.
+
+| Resource Type | Prefix | Example |
+|--------------|--------|----------|
+| Resource Group | rg | rg-core-labs |
+| Virtual Machine | vm | vm-win01-lab |
+| Virtual Network | vnet | vnet-core-lab |
+| Subnet | snet | snet-core-lab |
+| Network Security Group | nsg | nsg-core-lab |
+| Storage Account | st | st-core-lab |
+| Log Analytics | law | law-core-lab |
+| Recovery Services Vault | rsv | rsv-core-lab |
+
+---
+
+## 1.3 Validate Against Azure Constraints
+
+Some Azure resources have naming restrictions.
+
+Document findings: (W.I.P.)
