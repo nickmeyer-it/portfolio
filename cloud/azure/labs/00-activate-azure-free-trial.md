@@ -126,6 +126,5 @@ Paired Region: West US
 Reason for Choice: Better insulation from regional outage. Spans breadth of the US.
 ```
 
----
-
-### 7. Define Naming Conventions (W.I.P.)
+## Notes:
+I've been supporting Azure, Entra and Intune for over two years now (at the time of this lab), as a Service Desk Analyst, any getting the opportunity to access my own personal slice of the Microsoft Cloud, for free has been a little... overwhelming. Not being a Cloud Engineer myself, I find a deeper respect for those that do this every day. It's not that there's anything unfamiliar to me about what I've touched so far in Azure, but there's definitely a lot more to learn about conventionality, standardization, and future-proofing. Anything done today, if not thought out carefully, could cause problems later on. Azure, like AWS, is so dense, and there are so many applications, and uses for it, making it difficult to appreciate out of the box - as it were. But, not unlike PowerShell, I'm finding the more I poke around and use it, I have a greater familiarity and new found confidence that I'm eager to hopefully one day apply professionally, not just in a lab setting. 
