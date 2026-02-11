@@ -36,11 +36,13 @@ This lab will NOT:
 Decide on a naming pattern format.
 
 Example structure:
+
 <resource-type>-<purpose>-<environment>
 
-AZ-104-friendly
+AZ-104-friendly:
+
 | Resource | Prefix |
-|:--------:|:------:|
+|:--------|:------|
 | Resource Group | rg |
 | Virtual Machine | vm |
 | Virtual Network	| vnet |
