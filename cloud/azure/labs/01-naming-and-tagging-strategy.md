@@ -35,10 +35,6 @@ This lab will NOT:
 
 Decide on a naming pattern format.
 
-Example structure:
-
-<resource-type>-<purpose>-<environment>
-
 AZ-104-friendly:
 
 | Resource | Prefix |
@@ -52,6 +48,8 @@ AZ-104-friendly:
 | Log Analytics	| law |
 | Recovery Vault | rsv |
 
+My chosen structure: 
 
-Document your chosen structure:
+<resource-type>-<purpose>-<environment>
 
+# (W.I.P.)
