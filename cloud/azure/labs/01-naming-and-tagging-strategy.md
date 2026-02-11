@@ -49,7 +49,7 @@ AZ-104-friendly:
 | Recovery Vault | rsv |
 
 My chosen structure: 
-
+```cmd
 <resource-type>-<purpose>-<environment>
-
+```
 # (W.I.P.)
