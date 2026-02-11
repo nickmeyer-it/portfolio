@@ -33,7 +33,7 @@ This lab will NOT:
 
 ## 1.1 Define Naming Structure
 
-Decide on a naming pattern format.
+Deciding on a naming pattern format.
 
 AZ-104-friendly:
 
@@ -57,7 +57,7 @@ My chosen structure:
 
 ## 1.2 Define Approved Prefixes
 
-Fill in your approved prefixes below.
+Naming pattern defined.
 
 | Resource Type | Prefix | Example |
 |--------------|--------|----------|
